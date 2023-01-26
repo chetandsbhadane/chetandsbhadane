@@ -1,4 +1,4 @@
-![Header](./github-header-image2.png)
+![Header](./github-header-image-new.png)
 <h1 align="center">Hi 👋, I'm Chetan Bhadane</h1>
 <h3 align="center">A passionate Java full-stack Development from India</h3>
 
